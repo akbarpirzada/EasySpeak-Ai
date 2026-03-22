@@ -1,5 +1,5 @@
 """
-VoiceBridge – Speech-to-Speech AI  |  Assignment 13
+VoiceBridge AI – Speech-to-Speech AI  |  Assignment 13
 ✅ Auto-run  ✅ Chat bubbles  ✅ Clear chat  ✅ Latency  ✅ Validation  ✅ Voice switch
 """
 import os
@@ -96,7 +96,7 @@ LANGUAGES = {
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.title("🎙️ VoiceBridge")
+    st.title("🎙️ VoiceBridge AI")
     st.caption("Speech · LLM · Speech")
     st.divider()
 
