@@ -17,6 +17,7 @@
 | 🛡️ **Validation** | Empty audio guard + VAD-based silence/noise filtering |
 | 🔄 **Voice engine switch** | Choose between gTTS (online) or Piper (offline) from the sidebar |
 | 🗑️ **Clear chat** | One-click session reset |
+| **LIVE DEMO**| https://easyspeak-ai.streamlit.app/ |
 
 ---
 
